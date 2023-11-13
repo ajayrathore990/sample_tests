@@ -51,5 +51,3 @@ def type_check(a):
 
 	return type(a)
 
-#python -m doctest  doc.py
-#python -m doctest  -v doc.py

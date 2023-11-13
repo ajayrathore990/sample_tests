@@ -17,7 +17,3 @@ class Test3a(unittest.TestCase):
         # Assert
         assert answer == 5
 
-#python -m doctest  3a.py
-#python -m doctest  -v 3a.py
-#python -m unittest  3a.py
-#python -m unittest discover
