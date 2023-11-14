@@ -16,3 +16,5 @@ class ExceptionTest(unittest.TestCase):
 		with self.assertRaises(KeyError):
 			d[3]
 
+
+

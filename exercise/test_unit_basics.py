@@ -66,6 +66,7 @@ class FifthTest(unittest.TestCase):
 		with self.assertRaises(ZeroDivisionError):
 			10/0
 
-#python -m  unittest test_unit_basics.py
-#python -m  unittest  -v test_unit_basics.py
+
+
+
 
